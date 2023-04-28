@@ -1,0 +1,11 @@
+
+.App {
+  /* text-align: center; */
+  /* height: 100vh; */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+.noto-sans{
+  font-family: 'Noto Sans', sans-serif;
+}
